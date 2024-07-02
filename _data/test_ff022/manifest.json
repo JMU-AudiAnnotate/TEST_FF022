@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/test_ff022/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "TEST_FF022" ] },
+    "homepage": [
+      {
+        "id": "https://commons.lib.jmu.edu/ffpc-1994/18/",
+        "type": "Text",
+        "label": { "en": [ "TEST_FF022" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://commons.lib.jmu.edu/",
+        "type": "Agent",
+        "label": { "en": [ "JMU Scholarly Commons" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/test_ff022/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3310,
+        "items": [
+          {
+            "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/test_ff022/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/test_ff022/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://apps.lib.jmu.edu/audiannotate/FF022.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 3310
+                },
+                "target": "https://JMU-AudiAnnotate.github.io/TEST_FF022/test_ff022/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
