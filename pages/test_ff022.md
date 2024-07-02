@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: TEST_FF022
 manifest_name: test_ff022
 permalink: test_ff022
