@@ -27,7 +27,7 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/annotations/test_ff022-canvas-1-transcription.json",
+            "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/annotations/test-ff022-canvas-1-transcription.json",
             "label": {
               "none": ["Transcription"]
             }
@@ -35,7 +35,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/annotations/test_ff022-canvas-1-speaker.json",
+            "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/annotations/test-ff022-canvas-1-speaker.json",
             "label": {
               "none": ["Speaker"]
             }
@@ -43,7 +43,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/annotations/test_ff022-canvas-1-environment.json",
+            "id": "https://JMU-AudiAnnotate.github.io/TEST_FF022/annotations/test-ff022-canvas-1-environment.json",
             "label": {
               "none": ["Environment"]
             }
